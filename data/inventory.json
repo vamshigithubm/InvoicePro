@@ -1,0 +1,17 @@
+{
+    "101": {
+        "name": "Pen",
+        "price": 10,
+        "quantity": 100
+    },
+    "102": {
+        "name": "Pencil",
+        "price": 5,
+        "quantity": 197
+    },
+    "7": {
+        "name": "TextBooks",
+        "price": 150.0,
+        "quantity": 497
+    }
+}
